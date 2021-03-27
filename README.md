@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align='center'>Hi there 👋🏾, I'm Babatunde Koiki</h1> 
-  <p align="center"> I am a Software Developer focused on (Python/Flask, Node/Express, React). Available for hire and also a <a href="https://medium.com/@bkoiki950" target="_blank">Technical writer</a>.</p>
+  <p align="center"> I am a Software Developer focused on (Python/Flask, Node/Express, React, TypeScript), also a <a href="https://medium.com/@bkoiki950" target="_blank">Technical writer</a>.</p>
 </p>
 
 <p align='center'>
