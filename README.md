@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align='center'>Hi there 👋🏾, I'm Christopher Egbaaibo</h1> 
+  <h1 align='center'>Hi there 👋🏾, I'm Christopher Egbaaibon</h1> 
   <p align="center"> I am a Software Developer focused on ( Node/Express, React, TypeScript/NestJs, Golang)</p>
 </p>
 
